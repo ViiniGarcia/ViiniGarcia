@@ -3,7 +3,7 @@
 <img align="right" height="200em" src="https://github.com/ViiniGarcia/Config/blob/98c8d4ab9ae4c55282cafb474768595942001103/image_profile.png"/>
   
 - 
-
+<!--https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg-->
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <img width ='32px' src ='https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/javascript/javascript-original.svg'>
