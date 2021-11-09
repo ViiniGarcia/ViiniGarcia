@@ -19,6 +19,7 @@
   <a href = ""><img width ='32px' src ='https://cpng.pikpng.com/pngl/s/204-2047555_datei-java-logo-svg-java-logo-svg-clipart.png'></a>
   <a href = ""><img width ='27px' src ='https://github.com/ViiniGarcia/Config/blob/7d28f78001079a372787feab637bc9c534c0ce36/flutter%20(1).svg'></a>
   <a href = ""><img width ='32px' src ='https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/f994c418a134b58c4aec11152f6a4a33fa89da26/programming%20languages/dart.svg'></a>
+  <a href = ""><img width ='32px' src ='https://github.com/ViiniGarcia/Config/blob/7d28f78001079a372787feab637bc9c534c0ce36/swift.svg'></a>
   <a href = ""><img width ='37px' src ='https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/f994c418a134b58c4aec11152f6a4a33fa89da26/frameworks/android.svg'></a>
   <a href = ""><img width ='32px' src ='https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/javascript/javascript-original.svg'></a>
   <a href = ""><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'></a>
