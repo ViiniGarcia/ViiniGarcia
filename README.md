@@ -1,4 +1,4 @@
-<h2>Olá mundo!:earth_americas:<br>Sou o Vini Garcia, desenvolvedor de software e amante de tecnologia :computer:</h2>
+<h2>Olá mundo! Sou o Vini Garcia, desenvolvedor de software e amante de tecnologia :computer:</h2>
 <br>
 <a href = ""><img align="right" height="100%" src="https://github.com/ViiniGarcia/Config/blob/c03c404ecef1c1d1cccbe58aa80e9ac1ba01b1df/download.gif"/></a>
 
